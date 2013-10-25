@@ -5,4 +5,4 @@ compiler:
     - clang
 
 script:
-    - clang++ -std=c++11 test.cpp -o prog && ./prog
+    - clang++ -stdlib=libc++ -std=c++11 test.cpp -o prog && ./prog
