@@ -4,5 +4,12 @@ language:
 compiler:
     - clang
 
+before_install:
+    - sudo add-apt-repository ppa:ubuntu-toolchain-r/test -y
+    - sudo apt-get update
+
+install:
+    - sudo apt-get install g++-4.8
+
 script:
     - clang++ -std=c++11 test.cpp -o prog && ./prog
