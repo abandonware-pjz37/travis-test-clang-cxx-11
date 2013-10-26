@@ -1,4 +1,1 @@
-travis-test-clang-cxx-11
-========================
-
-  travis-ci.org test clang c++11 support
+* `default.clang` (**failed**: by default `c++11` is not fully supported)
