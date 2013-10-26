@@ -5,7 +5,7 @@
 * `clang-3.2` (**???**: updating to `3.2`)
 [![Build Status](https://travis-ci.org/travis-ci-tester/travis-test-clang-cxx-11.png?branch=clang-3.2)](https://travis-ci.org/travis-ci-tester/travis-test-clang-cxx-11)
 * `clang-3.2.libstd-4.8` (**passed**)
-[![Build Status](https://travis-ci.org/travis-ci-tester/travis-test-clang-cxx-11.png?branch=clang-3.2.stdlib-4.8)](https://travis-ci.org/travis-ci-tester/travis-test-clang-cxx-11)
+[![Build Status](https://travis-ci.org/travis-ci-tester/travis-test-clang-cxx-11.png?branch=clang-3.2.libstd-4.8)](https://travis-ci.org/travis-ci-tester/travis-test-clang-cxx-11)
 
 **Note**:
 * test clang libc++ support: https://github.com/travis-ci-tester/travis-test-clang-with-libcxx
