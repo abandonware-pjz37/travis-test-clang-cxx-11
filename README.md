@@ -1,6 +1,7 @@
 * `default.clang` (**failed**: by default `c++11` is not fully supported)
 * `gcc-4.8.stdlib` (**failed**: installing new `stdlib++` version not help)
 * `clang.3-2` (**???**: updating to `3.2`)
+* `clang.3-2.stdlib-4.8` (**passed**)
 
 **Note**:
 * test clang libc++ support: https://github.com/travis-ci-tester/travis-test-clang-with-libcxx
