@@ -11,3 +11,4 @@
 * test clang libc++ support: https://github.com/travis-ci-tester/travis-test-clang-with-libcxx
 * install clang 3.2 version: https://github.com/travis-ci-tester/travis-test-clang-3.2
 * g++ c++11 support: https://github.com/travis-ci-tester/travis-test-gcc-cxx-11
+* toolchain for cmake: https://github.com/ruslo/polly/blob/master/README.md#clang32_libstdcxx
