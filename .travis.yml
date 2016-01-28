@@ -1,8 +1,8 @@
 language:
-    - cpp
+  - cpp
 
 compiler:
-    - clang
+  - clang
 
 script:
-    - clang++ -std=c++11 test.cpp -o prog && ./prog
+  - clang++ -std=c++11 test.cpp -o prog && ./prog
